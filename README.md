@@ -1,8 +1,8 @@
 # US-Healthcare-Dynamics-
 
 🏥 US Healthcare Dynamics is a data analysis and visualization project exploring healthcare trends in the United States. It analyzes patient demographics, hospital performance, costs, and health outcomes, providing insights through dashboards and reports to support decision-making in the healthcare sector. 🔹 README.md
+<img width="1210" height="733" alt="image" src="https://github.com/user-attachments/assets/be14dd8a-27bf-4195-bf6d-7c8f09cf409f" />
 
-🏥 US Healthcare Dynamics
 
 # 📖 Overview
 The US Healthcare Dynamics project provides a comprehensive analysis of healthcare trends in the United States.
